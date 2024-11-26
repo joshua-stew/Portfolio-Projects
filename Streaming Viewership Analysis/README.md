@@ -28,7 +28,7 @@ Streamly, a global media streaming platform, delivers diverse video content to m
 
 Analysis of the simulated Streamly dataset highlights key trends in user engagement and subscription behavior. Premium and Free accounts have nearly equal engagement levels, signaling a need to create stronger incentives for users to upgrade. Top-performing genres like Action, Comedy, and Drama drive the most engagement, while Documentaries and Sci-Fi lead in session duration for Premium users. Customer retention is impacted by device type and playback quality, with TVs and desktops driving the highest engagement, while mobile underperforms. Streamly can enhance its market position by optimizing Premium incentives, improving engagement for underperforming devices, and expanding high-performing genres to maximize user satisfaction and subscription growth.
 
-![Streaming Dataset ERD](Streaming_Viewership_Analysis/Visualizations/Streaming_ERD.webp)
+![Streaming Dataset ERD](Visualizations/Streaming_ERD.webp)
 Streaming Dataset ERD
 
 ## Insights Deep-Dive
