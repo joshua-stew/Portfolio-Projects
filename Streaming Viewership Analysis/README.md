@@ -32,6 +32,9 @@ Analysis of the simulated Streamly dataset highlights key trends in user engagem
 ![Streaming Dataset ERD](Visualizations/Streaming_ERD.png)
 Streaming Dataset ERD
 
+***
+
+
 ## Insights Deep-Dive
 
 ### Top-Performing Genres
@@ -59,8 +62,6 @@ Streaming Dataset ERD
 - Documentaries, Sci-Fi, and Thriller genres have the highest session ratings, reflecting user satisfaction with engaging and thought-provoking content. Premium subscriptions and TV usage correlate with higher ratings, while mobile devices tend to score lower.
 
 
-
-
 ### Optimizing Playback Quality
 
 - Focus on enhancing 4K availability and performance across devices, as it shows the highest engagement and satisfaction levels. HD quality should be prioritized for mobile and tablet users to boost performance in these segments.
@@ -68,26 +69,25 @@ Streaming Dataset ERD
 ### Improving Underperforming Tiers
 - Non-Premium subscriptions see lower engagement and session durations. Strategies such as offering limited 4K content or exclusive genre-based recommendations could improve retention and engagement for this tier.
 
+***
 
 ## Recommendations
 
-Content Preferences
+### Content Preferences
 
 - **Enhance Genre Offerings**: Prioritize creating or acquiring content in high-performing genres like Action, Drama, and Comedy, which resonate well across key demographics and regions.
 
 - **Optimize Subscription-Based Content**: Offer exclusive, longer-duration content in genres like Documentaries and Sci-Fi for Premium subscribers to boost engagement and differentiate subscription tiers.
 
-***
 
-User Engagement
+## User Engagement
 
 - **Upgrade Playback Quality**: Expand 4K and HD streaming availability across all devices, focusing on Premium subscribers to maintain higher session durations and interactions.
 
 - **Device-Specific Optimization**: Tailor content recommendations for TV and desktop users, as these devices drive the highest engagement. Develop strategies to increase mobile engagement among younger users.
 
-***
 
-Customer Retention
+## Customer Retention
 
 - **Highlight Incentives for Premium Users**: With Free and Premium user engagement levels being nearly even, the business should introduce clearer and more compelling incentives for Premium accounts. Consider exclusive access to premium-quality content, early releases, or personalized recommendations to give users a strong reason to upgrade.
 
@@ -95,16 +95,14 @@ Customer Retention
 
 - **Retention Strategies for Non-Premium Users**: Offer periodic trials or genre-specific perks (e.g., exclusive access to top-rated shows) to convert non-Premium users into loyal customers.
 
-***
 
-Platform Optimization
+## Platform Optimization
 
 - **Enhance Underperforming Tiers**: Implement targeted campaigns for non-Premium users, such as curated playlists or limited access to 4K content, to improve retention and engagement.
 
 - **Focus on TV and Desktop Optimization**: Allocate resources to improve the user experience on high-performing devices to further increase engagement metrics.
 
 ***
-
 
 ## Clarifying Questions, Assumptions, and Caveats
 
