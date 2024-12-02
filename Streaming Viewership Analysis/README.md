@@ -69,6 +69,12 @@ Streaming Dataset ERD
 - Non-Premium subscriptions see lower engagement and session durations. Strategies such as offering limited 4K content or exclusive genre-based recommendations could improve retention and engagement for this tier.
 
 
+![Streaming Dataset ERD](Visualizations/Session_Length.png)
+Session Length Analysis
+
+![Streaming Dataset ERD](Visualizations/User_Interactions.png)
+User Interactions Analysis
+
 
 ## Recommendations
 
