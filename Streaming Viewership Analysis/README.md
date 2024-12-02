@@ -32,7 +32,6 @@ Analysis of the simulated Streamly dataset highlights key trends in user engagem
 ![Streaming Dataset ERD](Visualizations/Streaming_ERD.png)
 Streaming Dataset ERD
 
-***
 
 
 ## Insights Deep-Dive
@@ -69,7 +68,7 @@ Streaming Dataset ERD
 ### Improving Underperforming Tiers
 - Non-Premium subscriptions see lower engagement and session durations. Strategies such as offering limited 4K content or exclusive genre-based recommendations could improve retention and engagement for this tier.
 
-***
+
 
 ## Recommendations
 
@@ -102,7 +101,7 @@ Streaming Dataset ERD
 
 - **Focus on TV and Desktop Optimization**: Allocate resources to improve the user experience on high-performing devices to further increase engagement metrics.
 
-***
+
 
 ## Clarifying Questions, Assumptions, and Caveats
 
