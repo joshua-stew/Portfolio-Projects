@@ -80,14 +80,14 @@ Streaming Dataset ERD
 - **Optimize Subscription-Based Content**: Offer exclusive, longer-duration content in genres like Documentaries and Sci-Fi for Premium subscribers to boost engagement and differentiate subscription tiers.
 
 
-## User Engagement
+### User Engagement
 
 - **Upgrade Playback Quality**: Expand 4K and HD streaming availability across all devices, focusing on Premium subscribers to maintain higher session durations and interactions.
 
 - **Device-Specific Optimization**: Tailor content recommendations for TV and desktop users, as these devices drive the highest engagement. Develop strategies to increase mobile engagement among younger users.
 
 
-## Customer Retention
+### Customer Retention
 
 - **Highlight Incentives for Premium Users**: With Free and Premium user engagement levels being nearly even, the business should introduce clearer and more compelling incentives for Premium accounts. Consider exclusive access to premium-quality content, early releases, or personalized recommendations to give users a strong reason to upgrade.
 
@@ -96,7 +96,7 @@ Streaming Dataset ERD
 - **Retention Strategies for Non-Premium Users**: Offer periodic trials or genre-specific perks (e.g., exclusive access to top-rated shows) to convert non-Premium users into loyal customers.
 
 
-## Platform Optimization
+### Platform Optimization
 
 - **Enhance Underperforming Tiers**: Implement targeted campaigns for non-Premium users, such as curated playlists or limited access to 4K content, to improve retention and engagement.
 
