@@ -7,7 +7,7 @@ Table of Contents
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-    - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates)
+    - [Top-Performing Genres](##Top-Performing-Genres)
     - [Key Product Performance](#key-product-performance)
     - [Customer Growth and Repeat Purchase Trends](#customer-growth-and-repeat-purchase-trends)
     - [Loyalty Program Performance](#loyalty-program-performance)
