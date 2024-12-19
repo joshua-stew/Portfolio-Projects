@@ -7,9 +7,9 @@ Table of Contents
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-    - [Top-Performing Genres](##Top-Performing-Genres)
-    - [Key Product Performance](#key-product-performance)
-    - [Customer Growth and Repeat Purchase Trends](#customer-growth-and-repeat-purchase-trends)
+    - [Top-Performing Genres](#Top-Performing-Genres)
+    - [Genres Driving Viewing Durations](#Genres-Driving-Viewing-Durations)
+    - [Impact of Playback Quality](#Impact-of-Playback-Quality)
     - [Loyalty Program Performance](#loyalty-program-performance)
     - [Sales by Platforms & Channels](#sales-by-platforms--channels)
     - [Refund Rate Trends](#refund-rate-trends)
@@ -38,17 +38,17 @@ Streaming Dataset ERD
 
 ### Top-Performing Genres
 
-- Action, Comedy, and Drama lead in engagement across all user demographics. Action dominates among younger audiences (18–34), while Drama performs better among older age groups (35+). Regional trends show strong preferences for Comedy in North America and Drama in Europe.
+- Documnetaries, Comedies, and Sci-Fi lead in total user interactions across all age groups. Documentaries dominate among younger audiences (18–34), while Action performs better among older age groups (55+). Regional trends show strong preferences for Drama and Comedy in North America.
 
 
 ### Genres Driving Viewing Durations
 
-- Documentaries have the longest average viewing durations across all subscription tiers. Premium subscribers tend to watch Sci-Fi and Thriller genres longer than non-Premium users, indicating a correlation between subscription type and interest in immersive content.
+- Premium subscribers tend to watch Thriller and Drama genres longer than non-Premium users, indicating a correlation between subscription type and interest in immersive content.
 
 
 ### Impact of Playback Quality
 
-- HD playback quality results in longer session durations compared to Standard Definition (SD), but 4K outperforms both, especially for Premium users. Higher playback quality also correlates with increased user interactions, such as likes and shares.
+- SD playback quality results in longer session durations compared to HD, but 4K outperforms both, especially for Premium users. Higher playback quality also correlates with increased user interactions, such as likes and shares.
 
 
 ### Device Engagement Trends:
